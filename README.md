@@ -6,7 +6,7 @@
 # About Me
 Hi Sagar :wave: 
 
-I'm Sagar Patil, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack.
+I'm Sagar Patil, a Full Stack Developer.
 
 I love to learn about how things work and try new tools and technologies.
 
@@ -22,7 +22,7 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
-### Java, Springboot, Python, FastApi, React.js, Angular, Nextjs Node.js, Express.js, MongoDB, Firebase, Aws.
+### Java, Springboot, Python, FastApi, React.js, Angular, Nextjs Node.js, Express.js, MongoDB, Firebase, Aws, Graphql.
 
 ## Database:
 
