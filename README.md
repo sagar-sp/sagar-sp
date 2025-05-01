@@ -16,11 +16,13 @@ I love to learn about how things work and try new tools and technologies.
 <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> 
 
 <!-- * C/C++
-* JavaScript (ES6)-->
+* JavaScript (ES6)
+* Java
+* Python-->
 
 ## Frameworks:
 
-### React.js, Angular, Node.js, Express.js, MongoDB, Firebase.
+### Java, Springboot, Python, FastApi, React.js, Angular, Nextjs Node.js, Express.js, MongoDB, Firebase, Aws.
 
 ## Database:
 
